@@ -16,4 +16,4 @@ Para comenzar a trabajar con el proyecto, sigue estos pasos:
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/vladdevcode/chekyourtalents.git
+   git clone https://github.poluxdev/chekyourtalents.git
