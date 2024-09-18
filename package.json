@@ -21,7 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://poluxdev.github.io/chekyourtalents",
+  "homepage": "https://poluxdev.github.io/chekyourtalents",
   "eslintConfig": {
     "extends": [
       "react-app",
