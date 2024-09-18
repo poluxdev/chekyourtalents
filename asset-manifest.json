@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/chekyourtalents/static/css/main.fd1c385f.css",
+    "main.js": "/chekyourtalents/static/js/main.4a89ade9.js",
+    "static/media/background.jpg": "/chekyourtalents/static/media/background.2df7f2d8ed89acc87b66.jpg",
+    "index.html": "/chekyourtalents/index.html",
+    "main.fd1c385f.css.map": "/chekyourtalents/static/css/main.fd1c385f.css.map",
+    "main.4a89ade9.js.map": "/chekyourtalents/static/js/main.4a89ade9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd1c385f.css",
+    "static/js/main.4a89ade9.js"
+  ]
+}
